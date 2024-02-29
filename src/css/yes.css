@@ -1,0 +1,15 @@
+* {
+  background-color: #d6f3fd;
+  display: grid;
+  place-items: center;
+}
+
+.yes-gif {
+  margin-top: 80px;
+  width: 900px;
+  height: 450px;
+}
+
+title {
+  display: none;
+}
